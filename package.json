@@ -1,0 +1,25 @@
+{
+  "name": "team_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel ./js/es6 -d ./js -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-minify": "^0.5.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0"
+  },
+  "description": ""
+}
