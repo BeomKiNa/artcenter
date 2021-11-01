@@ -36,4 +36,4 @@ Renewal Chungmu Arts Center with HTML, CSS, Javascript(ES6+), jQuery, Babel
 
 ## Github Pages Link
 
-[Visit NOW!](https://beomki69.github.io/artcenter/)
+[Visit NOW!](https://nabeomki.github.io/artcenter/)
